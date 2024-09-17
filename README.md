@@ -24,7 +24,7 @@ Testing the webserver.
 
 ## PROGRAM:
 
-```
+```html
 <html>
    <head>
       <title>Simple Webserver</title>
