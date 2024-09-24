@@ -131,6 +131,11 @@ httpd.serve_forever()
 ```
 ## OUTPUT:
 ![image](https://github.com/user-attachments/assets/248b36e4-80aa-4a29-a376-2150b06453d4)
+
+
+
+
+
 ![image](https://github.com/user-attachments/assets/ca539201-6ea4-4ef4-a0b0-0fde1a0d03d4)
 
 
